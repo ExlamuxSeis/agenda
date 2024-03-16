@@ -1,5 +1,5 @@
     <?php
-        require 'header.php';
+        require 'vista/header.php';
     ?>
 
                     <!-- Page Heading -->
@@ -42,5 +42,5 @@
             <!-- End of Main Content -->
 
 <?php
-    require 'footer.php';
+    require 'vista/footer.php';
 ?>

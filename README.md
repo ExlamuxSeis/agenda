@@ -1,10 +1,24 @@
 ```
 └── 📁agenda
     └── agenda.sql
+    └── categorias.php
+    └── 📁controlador
+        └── actualizar.php
+        └── agregar.php
+        └── eliminar.php
     └── 📁css
+        └── bootstrap.min.css
         └── sb-admin-2.css
         └── sb-admin-2.min.css
     └── 📁img
+        └── 📁principal
+            └── adulto.png
+            └── colega.png
+            └── Contacts_30028.png
+            └── icono-colega.png
+            └── joven.png
+            └── list.svg
+            └── mujer.png
         └── undraw_posting_photo.svg
         └── undraw_profile.svg
         └── undraw_profile_1.svg
@@ -13,14 +27,30 @@
         └── undraw_rocket.svg
     └── index.php
     └── 📁js
+        └── app.js
+        └── bootstrap.bundle.min.js
         └── 📁demo
             └── chart-area-demo.js
             └── chart-bar-demo.js
             └── chart-pie-demo.js
             └── datatables-demo.js
+        └── jquery-3.5.1.min.js
         └── sb-admin-2.js
         └── sb-admin-2.min.js
+        └── validacion.js
+    └── 📁modelo
+        └── conexion.php
+        └── modelo.php
+    └── README.md
     └── 📁vista
+        └── 📁admin
+            └── contactos.php
+            └── editar.php
+            └── formulario.php
+            └── index.php
+            └── 📁vista
+                └── footer_admin.php
+                └── header_admin.php
         └── footer.php
         └── header.php
 ```

@@ -11,20 +11,14 @@
         └── sb-admin-2.css
         └── sb-admin-2.min.css
     └── 📁img
-        └── 📁principal
-            └── adulto.png
-            └── colega.png
-            └── Contacts_30028.png
-            └── icono-colega.png
-            └── joven.png
-            └── list.svg
-            └── mujer.png
-        └── undraw_posting_photo.svg
-        └── undraw_profile.svg
-        └── undraw_profile_1.svg
-        └── undraw_profile_2.svg
-        └── undraw_profile_3.svg
-        └── undraw_rocket.svg
+        └── adulto.png
+        └── arrow-left-right.svg
+        └── colega.png
+        └── Contacts_30028.png
+        └── icono-colega.png
+        └── joven.png
+        └── list.svg
+        └── mujer.png
     └── index.php
     └── 📁js
         └── app.js

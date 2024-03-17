@@ -55,7 +55,7 @@ require 'vista/header_admin.php';
                                         <td><?php echo $persona['telefono']; ?></td>
                                         <td><?php echo $persona['email']; ?></td>
                                         <td><?php echo $persona['categoria']; ?></td>
-                                        <td><img src="../../img/principal/<?php echo $persona['icono'].".png"; ?>"></td>
+                                        <td><img src="../../img/<?php echo $persona['icono'].".png"; ?>"></td>
                                         <td><a href="../../vista/admin/editar.php?id=<?php echo $persona['id']; ?>"><button class="btn btn-sm btn btn-outline-primary">Editar</button></a></td>
                                         <td><a onclick="eliminar()" href="../../controlador/eliminar.php?id=<?php echo $persona['id']; ?>"><button class="btn btn btn-sm btn-outline-danger">Eliminar</button></a></td>
                                     </tr>

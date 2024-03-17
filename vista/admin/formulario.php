@@ -82,19 +82,19 @@ require 'vista/header_admin.php';
                                         <div class="col-sm-10 d-flex align-items-center">
                                             <div class="form-check me-3">
                                                 <input class="form-check-input" required type="radio" value="joven" name="icono" id="invalidCheck2">
-                                                <img src="../../img/principal/joven.png" width="24px">
+                                                <img src="../../img/joven.png" width="24px">
                                             </div>
                                             <div class="form-check me-3 ml-4">
                                                 <input class="form-check-input" required type="radio" value="colega" name="icono" id="invalidCheck2">
-                                                <img src="../../img/principal/colega.png" width="24px">
+                                                <img src="../../img/colega.png" width="24px">
                                             </div>
                                             <div class="form-check me-3 ml-4">
                                                 <input class="form-check-input" required type="radio" value="adulto" name="icono" id="invalidCheck2">
-                                                <img src="../../img/principal/adulto.png" width="24px">
+                                                <img src="../../img/adulto.png" width="24px">
                                             </div>
                                             <div class="form-check me-3 ml-4">
                                                 <input class="form-check-input" required type="radio" value="mujer" name="icono" id="invalidCheck2">
-                                                <img src="../../img/principal/mujer.png" width="24px">
+                                                <img src="../../img/mujer.png" width="24px">
                                             </div>
                                         </div>
                                     </div>

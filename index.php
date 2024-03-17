@@ -45,7 +45,7 @@
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active text-white fs-4 text nav-btn" href="vista/admin">Administrador</a>
+                            <a class="nav-link active text-white fs-4 text nav-btn" href="vista/admin/">Administrador</a>
                         </li>
                     </ul>
                     <form class="d-flex" role="search" action="" method="POST">
